@@ -1,0 +1,19 @@
+{
+  "name": "jsaqa-hw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VereskQA/jsaqa-hw2.git"
+  },
+  "author": "ikalashnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VereskQA/jsaqa-hw2/issues"
+  },
+  "homepage": "https://github.com/VereskQA/jsaqa-hw2#readme"
+}
